@@ -1,5 +1,6 @@
 # PSNR_SSIM_in_matlab
 
+```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%  Author:    Matthew Gaubatz
 %%%  Version:   1.0
@@ -23,6 +24,7 @@
 %%%  any damages whatsoever including direct, indirect, incidental,
 %%%  consequential, loss of business profits or special damages.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 --------------
 
